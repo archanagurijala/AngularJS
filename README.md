@@ -1,2 +1,2 @@
-# AngularJS
-Learning Angular Concepts
+# My Projects
+Learning UI Concepts
